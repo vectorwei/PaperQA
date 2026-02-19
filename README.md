@@ -1,4 +1,4 @@
-# PaperQA
+# PaperQA VA
 
 A question-answering system for scientific papers based on the PaperQA research framework. The system retrieves relevant papers, extracts evidence, and generates answers with citations.
 
